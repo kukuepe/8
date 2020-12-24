@@ -12,7 +12,7 @@ namespace _8
         {
             Console.WriteLine("Первое знакомство с GitHub");
             Console.WriteLine("Проверка");
-            Console.WriteLine("Проверка 212");
+            Console.WriteLine("Проверка 1232");
         }
     }
 }
