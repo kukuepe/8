@@ -11,7 +11,7 @@ namespace _8
         static void Main(string[] args)
         {
             Console.WriteLine("Первое знакомство с GitHub");
-            Console.WriteLine("Проверка ");
+            Console.WriteLine("Проверка 12");
         }
     }
 }
